@@ -16,3 +16,8 @@ print("\tEsta es una tabulacion")
 print("Usando un apostrofe: don\'t")
 
 print("Usando una barra invertida: \\")
+
+print("A\tB\tC \nD\tE\tF \nG\tH\tI")
+
+print("Barra Normal: /")
+print("Barra Invertida: \\")
