@@ -14,3 +14,4 @@ print("\n__________________________\n")
 print("Datos anisionales \nEmpleado: {}\nVenta: {}\nComisión: {}".format(type(nombre), type(venta), type(calcular_comision)))
 print("--------------------------")
 
+ 
