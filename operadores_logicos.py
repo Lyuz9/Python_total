@@ -43,3 +43,10 @@ print(bool)
 text = "hola mundo desde python"
 bool = ("hola" in text) and ("python" in text)
 print(bool)
+
+
+# operador NOT
+
+bool = not ("a" == "a")
+# si la comparacion al usar not es falsa entonces es correcta
+print(bool)
